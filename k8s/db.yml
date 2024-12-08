@@ -10,7 +10,7 @@ stringData:
   host: "demo-db"
   port: "5432"
   database: "petclinic"
-  username: "petclinic
+  username: "petclinic"
   password: "petclinic"
 
 ---
